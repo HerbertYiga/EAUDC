@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400);
+
+
+body{
+	background-color: #ffe1f0;
+}
+
+
+	.navbar{
+		background-color:black;
+		border:none;
+	}
+	
+	.navbar-brand{
+	color:white;
+	
+	}
